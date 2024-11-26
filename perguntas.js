@@ -21,6 +21,29 @@ criaCartao(
     'Passeios', 
     'Onde passear?', 
     'Informar os locais, breve resumo do que são.'
+    Aqui estão os resumos mais curtos dos locais mencionados:
+
+Locais Pagos:
+
+Jardim Botânico do Recife
+   - Um espaço de preservação ambiental com diversas espécies de plantas, perfeito para caminhadas e contato com a natureza.
+
+Paço do Frevo: 
+   - Centro cultural dedicado ao frevo, com exposições sobre a história dessa dança e música típica de Pernambuco.
+
+RioMar Shopping: 
+   - Um grande shopping com lojas, restaurantes e opções de entretenimento, localizado na Zona Sul de Recife.
+
+Locais Gratuitos:
+
+Praia do Pina: 
+   Uma praia urbana com águas calmas, ideal para passeios e relaxamento, na Zona Sul de Recife.
+
+Museu da Abolição: 
+   Museu dedicado à história da abolição da escravatura em Pernambuco, com exposições educativas.
+
+Casa da Cultura de Pernambuco: 
+ Antigo presídio transformado em centro cultural, com lojas de artesanato e apresentações culturais de Pernambuco.
 )
 
 criaCartao(
