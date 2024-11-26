@@ -1,3 +1,4 @@
+
 criaCartao(
     'Diário de Bordo', 
     'Qual foi o destino?', 
@@ -19,7 +20,8 @@ criaCartao(
 criaCartao(
     'Passeios', 
     'Onde passear?', 
- 
+    'Informar os locais, breve resumo do que são.'
+)
 
 criaCartao(
     'Prato Típico', 
